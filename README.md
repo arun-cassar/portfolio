@@ -1,7 +1,7 @@
 # Aspiring Data Analyst
 
 ### Education
-MSc Medical Physics \n
+MSc Medical Physics  
 BSc (Hons) Mathematics
 
 ### Work Experience
