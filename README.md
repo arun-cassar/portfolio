@@ -8,5 +8,5 @@ BSc (Hons) Mathematics
 Trainee Medical Physicist @ NHS
 
 ### Projects
-**Price Drop Alert**
+**Price Drop Alert**  
 **UFO Sightings**
