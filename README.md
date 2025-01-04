@@ -15,4 +15,15 @@
 
 ### Projects
 **Price Drop Alert**  
-**UFO Sightings**
+In this project, I sought to create a Python script which would send me an email alert when an item from an online store is on sale. This involved:  
+- Scraping a webpage using Beautiful Soup to collect data  
+- Checking status codes  
+- Setting up email alerts using SMTP
+- Demonstrates my ability to use Python functions, conditional statements, slicing, string concatenation, and more  
+  
+**UFO Sightings**  
+In this short project, I used Python to analyse a Kaggle dataset on UFO sightings. This involved:  
+- Data loading and inspection  
+- Filtering missing values  
+- Exploratory data analysis  
+- Using matplotlib to visualise the findings
