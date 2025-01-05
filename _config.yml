@@ -1,5 +1,7 @@
 title: Arun Cassar
-description: >
-<a href="https://www.linkedin.com/in/arun-cassar-12057b17a">View My LinkedIn Profile</a>
-
+<div id="badges">
+  <a href="www.linkedin.com/in/arun-cassar-12057b17a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 theme: jekyll-theme-minimal
