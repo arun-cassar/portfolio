@@ -7,11 +7,16 @@
 - BSc (Hons) Mathematics | Kingston University (_September 2021_)
 
 ### Work Experience
-**Trainee Medical Physicist @ NHS (_October 2022 - May 2024_)**
-- Used MS Excel to analyse and visualise radiation dose data
--	Managed personal projects and presented findings to the team. This includes a project which sought to streamline how we tested equipment, freeing up time for us to focus on more complex modalities
--	Communicated test analysis results to staff at various levels
-
+**East and North Hertfordshire NHS Trust**
+Trainee Medical Physicist | Jan 2023 – May 2024
+Assistant Physicist | Oct 2022 – Jan 2023
+•	Conducted 200+ quality assurance evaluations on medical imaging systems, ensuring compliance with performance standards.
+•	Utilised MS Excel to analyse and visualise large, complex datasets, providing actionable insights for improvement.
+•	Presented analysis results to non-expert staff, simplifying technical information for improved understanding and to influence positive decision making.
+•	Developed a new testing protocol to reduce testing time, allowing for a more efficient focus on high-priority imaging modalities.
+•	Maintained detailed documentation of equipment performance, supporting data accuracy.
+•	Assisted with training new staff members to become proficient in testing protocols.
+•	Attended specialised training courses and conferences to enhance expertise.
 
 ### Projects
 **Price Drop Alert**  
